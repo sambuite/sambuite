@@ -1,21 +1,21 @@
 <h1 align="center"> hello there, i'm Murilo 👋 </h1>
 <h3 align="center"> aspiring fullstack developer </h3>
 
-<p align="center"><br/>
-    <a href="https://open.spotify.com/user/22cpeuchmgltmldtoz3vb4cba">
-      <img align="center" alt="Murilo's spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
-    </a> 
-    &nbsp;
+<p align="center">
     <a href="https://github.com/sambuite">
       <img align="center" alt="Murilo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
     </a>
     &nbsp;
-    <a href="https://www.instagram.com/sambuite_/">
-      <img align="center" alt="Murilo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-    </a>
-     &nbsp;
     <a href="mailto:murilosambuite@gmail.com">
       <img align="center" alt="Murilo's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    </a>
+    &nbsp;
+    <a href="https://open.spotify.com/user/22cpeuchmgltmldtoz3vb4cba">
+      <img align="center" alt="Murilo's spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
+    </a> 
+    &nbsp;
+    <a href="https://www.instagram.com/sambuite_/">
+      <img align="center" alt="Murilo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     </a>
   </p>
 
