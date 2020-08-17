@@ -2,10 +2,6 @@
 <h3 align="center"> aspiring fullstack developer </h3>
 
 <p align="center">
-    <a href="https://github.com/sambuite">
-      <img align="center" alt="Murilo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-    </a>
-    &nbsp;
     <a href="mailto:murilosambuite@gmail.com">
       <img align="center" alt="Murilo's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
     </a>
