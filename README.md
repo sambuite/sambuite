@@ -20,7 +20,7 @@
 - HTML & CSS
 - Javacript & Typescript
 - ReactJS & Styled-Components
-- NodeJS & Express
+- NodeJS & Express & NestJs
 - PostegreSQL & MongoDB
 - A little of Java
 - Git & Github
