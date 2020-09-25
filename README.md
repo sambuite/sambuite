@@ -10,6 +10,10 @@
       <img align="center" alt="Murilo's spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
     </a> 
     &nbsp;
+    <a href="https://www.youtube.com/channel/UCy4tKJeQHBHVFEgFRGFCdKg/playlists">
+      <img align="center" alt="Murilo's spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+    </a> 
+    &nbsp;
     <a href="https://www.instagram.com/sambuite_/">
       <img align="center" alt="Murilo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     </a>
