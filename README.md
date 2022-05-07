@@ -5,7 +5,10 @@ I'm a front-end developer focused in ReactJS and Typescript. <br>
 Currently studying more about automated tests and backend development. <br>
 Based in Sergipe, Brazil.
 
+See my portfolio at https://portfolio-sambuite.vercel.app
+
 You can contact me at [murilosambuite@gmail.com](mailto:murilosambuite@gmail.com)
+
 
 See what i'm working on and studying about in my repositories or in my linkedIn's posts.
 
