@@ -1,22 +1,22 @@
 
-<em>Hi</em> :wave: my name is Murilo
+<em>Oi</em> :wave: me chamo Murilo
 
-I'm a front-end developer focused in ReactJS and Typescript. <br>
-Currently studying more about automated tests and backend development. <br>
-Based in Sergipe, Brazil.
+Sou um desenvolvedor front-end focado em ReactJS e Typescript. <br>
+Atualmente estudando mais sobre testes automatizados e desenvolvimento backend. <br>
+Sergipe, Brasil.
 
-See my portfolio at https://portfolio-sambuite.vercel.app
+Veja meu portfolio em https://portfolio-sambuite.vercel.app
 
-You can contact me at [murilosambuite@gmail.com](mailto:murilosambuite@gmail.com)
+Entre em contato [murilosambuite@gmail.com](mailto:murilosambuite@gmail.com)
 
 
-See what i'm working on and studying about in my repositories or in my linkedIn's posts.
+Veja em que estou trabalhando e estudando sobre nos meus repositórios ou nos meus posts no LinkedIn.
 
 <br>
  
   <a href="https://www.linkedin.com/in/murilosambuite/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-### Skills
+### Tecnologias
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
