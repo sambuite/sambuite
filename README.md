@@ -5,7 +5,7 @@ Sou um desenvolvedor front-end focado em ReactJS e Typescript. <br>
 Atualmente estudando mais sobre testes automatizados e desenvolvimento backend. <br>
 Sergipe, Brasil.
 
-Veja meu portfolio em https://portfolio-sambuite.vercel.app
+Veja meu portfolio em https://murilosambuite.com
 
 Entre em contato [murilosambuite@gmail.com](mailto:murilosambuite@gmail.com)
 
